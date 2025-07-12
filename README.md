@@ -3,6 +3,18 @@
 A comprehensive exploratory data analysis (EDA) of Vrinda Store’s sales and customer data to uncover trends, customer demographics, and channel performance, and to provide actionable insights for business growth.
 
 ---
+## 🔑 Key Insights & Recommendations
+
+Based on our year‑long analysis of Vrinda Store’s order data, we uncovered:
+
+- **65% of buyers are women**, indicating a strong female customer base.  
+- **Maharashtra, Karnataka & Uttar Pradesh** emerged as the top three revenue‑generating states.  
+- **Adults aged 30–49** contribute roughly **50% of total sales**, making them our most valuable age segment.  
+- **Amazon, Flipkart & Myntra** together account for the majority of orders, highlighting the importance of these channels.
+
+**Recommendation:**  
+To boost sales, focus marketing efforts on women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh—especially via targeted offers and coupons on Amazon, Flipkart, and Myntra.
+
 
 ## 📋 Table of Contents
 
@@ -49,17 +61,6 @@ The goal is to identify strengths, weaknesses, and opportunities for targeted ma
   - Order Channel share  
 
 ---
-## 🔑 Key Insights & Recommendations
-
-Based on our year‑long analysis of Vrinda Store’s order data, we uncovered:
-
-- **65% of buyers are women**, indicating a strong female customer base.  
-- **Maharashtra, Karnataka & Uttar Pradesh** emerged as the top three revenue‑generating states.  
-- **Adults aged 30–49** contribute roughly **50% of total sales**, making them our most valuable age segment.  
-- **Amazon, Flipkart & Myntra** together account for the majority of orders, highlighting the importance of these channels.
-
-**Recommendation:**  
-To boost sales, focus marketing efforts on women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh—especially via targeted offers and coupons on Amazon, Flipkart, and Myntra.
 
 ## ⚙️ Environment Setup
 
